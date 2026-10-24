@@ -18,4 +18,23 @@ My repositories include coursework, experiments, and application prototypes. Eac
 
 ## Collaborative projects
 
-I also worked on shared projects in Go, Java, C++, Android, web development, and AI education. See the [collaborative project collection](COLLABORATIONS.md) for public copies and original project credits.
+Team projects from organizations and shared repositories. The public copies retain original contributor credits and license notices.
+
+| Project | Focus |
+| --- | --- |
+| [DotaNet](https://github.com/sobhanala/dotanet) | Go ad-serving services, auctions, Kafka event processing, and PostgreSQL reporting |
+| [QExchange](https://github.com/sobhanala/QExchange-System) | Go/Echo exchange APIs, authentication, trading flows, and service tests |
+| [MioBook](https://github.com/sobhanala/IE-MewoBook) | React and Spring Boot application with MySQL, Redis sessions, and Google OAuth |
+| [Ja-Notghi](https://github.com/sobhanala/Ja-Notghi) | React and ASP.NET Core social app with accounts, follows, and email recovery |
+| [Neurofeedback BCI](https://github.com/sobhanala/neurofeedback-bci) | Adaptive cognitive games, EEG processing, and browser/Unity APIs |
+| [Air Mouse](https://github.com/sobhanala/ZbZ-Air-Mouse) | Android sensor fusion, UDP communication, and a Python desktop receiver |
+| [xv6 Operating Systems Lab](https://github.com/sobhanala/Operating-System-Lab-Projects-S2024) | System calls, scheduling, synchronization, and shared memory |
+| [TinyME CA4](https://github.com/sobhanala/SE-CA4), [CA6](https://github.com/sobhanala/SE-CA6), [CA7](https://github.com/sobhanala/SE-CA7) | Java/Spring Boot matching-engine coursework and order-processing tests |
+| [FunctionCraft Compiler](https://github.com/sobhanala/Programming-Languages-and-Compiler-Course-Projects) | Java/ANTLR parsing, semantic analysis, and JVM code generation |
+| [Computer-Aided Design](https://github.com/sobhanala/Computer-Aided-Design-Course-Projects-F2024) | Verilog/SystemVerilog neural-network hardware and FPGA design |
+| [Programming Competition Platform](https://github.com/sobhanala/OS-CA1) | Linux C++ networking with TCP, UDP, event-based I/O, and an evaluator |
+| [Networked Competition Model](https://github.com/sobhanala/OS-CA1-1403-04-1) | C++ socket programming with player, spectator, and arbiter roles |
+| [Parallel Image Processing](https://github.com/sobhanala/PP_CA1) | OpenCV image blending and video motion detection with SIMD |
+| [ML Pipeline Prototype](https://github.com/sobhanala/Pipeline-Prototype) | React/FastAPI interface for CSV classification and preprocessing pipelines |
+| [AI Roadmap Proof of Concept](https://github.com/sobhanala/Proof-of-Concept) | Learning-roadmap conversations and questionnaire flows with an LLM adapter |
+| [UTeam AI Education MVP](https://github.com/sobhanala/UTeam-AI-Edu-MVP) | Next.js/FastAPI chatbot with provider adapters and session memory |
