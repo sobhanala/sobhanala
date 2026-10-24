@@ -15,3 +15,7 @@ I build projects in C#, Go, Python, Java, and C++, with work spanning backend de
 | [TinyME Coursework](https://github.com/sobhanala/SE-CA8) | Java matching-engine and software-design exercises |
 
 My repositories include coursework, experiments, and application prototypes. Each project's README describes its current scope and setup.
+
+## Collaborative projects
+
+I also worked on shared projects in Go, Java, C++, Android, web development, and AI education. See the [collaborative project collection](COLLABORATIONS.md) for public copies and original project credits.
