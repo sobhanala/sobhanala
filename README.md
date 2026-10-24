@@ -7,6 +7,7 @@ I build projects in C#, Go, Python, Java, and C++, with work spanning backend de
 | Project | Focus |
 | --- | --- |
 | [Neurofeedback BCI](https://github.com/sobhanala/neurofeedback-bci) | Flask cognitive games, adaptive difficulty, and EEG processing |
+| [Cognitive Games](https://github.com/sobhanala/neurofeedback-games) | Flask games, adaptive difficulty, and session tracking |
 | [Distributed Systems](https://github.com/sobhanala/Distributed_Raft) | Go concurrency, MapReduce, key-value storage, and Raft |
 | [Stock Market API](https://github.com/sobhanala/StockMarket) | ASP.NET Core, Entity Framework Core, and SQL Server |
 | [Producer–Consumer System](https://github.com/sobhanala/HamkaranProject) | C# plugins, message production, consumption, and logging |
